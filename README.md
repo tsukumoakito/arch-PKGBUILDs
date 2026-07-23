@@ -11,14 +11,15 @@ This repository is a collection of PKGBUILDs for my projects, managed by TSUKUMO
 
 | Package | Version | Description | AUR Link |
 | :--- | :--- | :--- | :--- |
-| **zind** | 1.0.0 | Dynamic structural API indexer for Zig | [zind](https://aur.archlinux.org/packages/zind) |
+| **zind** | 1.0.0-2 | Dynamic structural API indexer for Zig | [zind](https://aur.archlinux.org/packages/zind) |
 
 ## Maintenance Workflow
 
-1. Update `pkgver` in the package's `PKGBUILD`.
+1. Update `pkgver` or `pkgrel` in the package's `PKGBUILD`.
 2. Run `updpkgsums` to update source checksums.
-3. Verify the build with `makepkg -s`.
-4. Run `./sync-aur.sh <package_name>` to deploy to AUR.
+3. Regenerate `.SRCINFO` with `makepkg --printsrcinfo > .SRCINFO`.
+4. Verify the build with `makepkg -s`.
+5. Run `./sync-aur.sh <package_name>` to deploy to AUR.
 
 ## License
 
