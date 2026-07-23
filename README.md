@@ -1,6 +1,6 @@
 <!--
-SPDX-License-Identifier: 0BSD
 SPDX-FileCopyrightText: 2026 TSUKUMO Akito <tsukumoakito99@duck.com>
+SPDX-License-Identifier: 0BSD
 -->
 
 # arch-PKGBUILDs
