@@ -11,7 +11,7 @@ This repository is a collection of PKGBUILDs for my projects, managed by TSUKUMO
 
 | Package | Version | Description | AUR Link |
 | :--- | :--- | :--- | :--- |
-| **zind** | 1.0.0-2 | Dynamic structural API indexer for Zig | [zind](https://aur.archlinux.org/packages/zind) |
+| **zind** | 1.0.0-3 | Dynamic structural API indexer for Zig | [zind](https://aur.archlinux.org/packages/zind) |
 
 ## Maintenance Workflow
 
