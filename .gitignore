@@ -1,18 +1,17 @@
 # SPDX-FileCopyrightText: 2026 TSUKUMO Akito <tsukumoakito99@duck.com>
 # SPDX-License-Identifier: 0BSD
 
-/private/
+private/
 **/src/
 **/pkg/
 *.tar.*
 *.pkg.tar.*
 *.sig
 *.log
-*.code-workspace
-.vscode/
 **/zig-out/
-**/zig-cache/
 **/.zig-cache/
-**/.zig/
+*.exe
+*.o
+*.pdb
 *~
 .DS_Store
