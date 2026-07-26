@@ -1,6 +1,6 @@
 <!--
 SPDX-FileCopyrightText: 2026 TSUKUMO Akito <tsukumoakito99@duck.com>
-SPDX-License-Identifier: 0BSD
+SPDX-License-Identifier: MIT
 -->
 
 # arch-PKGBUILDs
@@ -23,6 +23,8 @@ This repository is a collection of PKGBUILDs for my projects, managed by TSUKUMO
 
 ## License
 
-The PKGBUILD scripts and configurations in this repository are licensed under the [0BSD License](./LICENSE), following the Arch Linux RFC 40 package guidelines.
+The PKGBUILD scripts in this repository are licensed under the [0BSD License](./LICENSES/0BSD.txt), following the Arch Linux RFC 40 package guidelines.
+
+The configurations in this repository are licensed under the [MIT License](./LICENSE).
 
 Note that the individual software packages being built remain subject to their own respective upstream licenses (e.g., Zind is AGPL-3.0).
