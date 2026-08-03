@@ -3,6 +3,10 @@ SPDX-FileCopyrightText: 2026 TSUKUMO Akito <tsukumoakito99@duck.com>
 SPDX-License-Identifier: MIT
 -->
 
+<p align="center">
+  <img src="doc/arch-pkgbuilds_logo.svg" width="100%" alt="arch-PKGBUILDs Logo">
+</p>
+
 # arch-PKGBUILDs
 
 This repository is a collection of PKGBUILDs for my projects, managed by TSUKUMO Akito. It serves as the staging area before syncing with the [AUR (Arch User Repository)](https://aur.archlinux.org/).
