@@ -1,0 +1,12 @@
+version = 1
+
+[[annotations]]
+path = [
+    "*",
+    ".gitignore",
+    "doc/**",
+    "src/**",
+    "sync-aur.sh"
+]
+SPDX-FileCopyrightText = "2026 TSUKUMO Akito <tsukumoakito99@duck.com>"
+SPDX-License-Identifier = "MIT AND 0BSD"

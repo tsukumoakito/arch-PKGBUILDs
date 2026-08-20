@@ -1,0 +1,17 @@
+**/src/
+**/pkg/
+*.tar.*
+*.pkg.tar.*
+*.sig
+*.log
+**/zig-out/
+**/.zig-cache/
+**/target
+**/__pycache__
+**/.venv
+**/vendor
+*.exe
+*.o
+*.pdb
+*~
+.DS_Store
