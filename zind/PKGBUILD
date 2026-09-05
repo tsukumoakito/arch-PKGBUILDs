@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: 0BSD
 
 pkgname=zind
-pkgver=1.0.7
+pkgver=1.0.8
 _zigver=0.16.0
 pkgrel=1
 pkgdesc="Dynamic structural API indexer for Zig"
