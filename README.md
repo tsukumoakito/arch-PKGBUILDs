@@ -17,6 +17,7 @@ This repository is a collection of PKGBUILDs for my projects, managed by TSUKUMO
 | :--- | :--- | :--- | :--- | :--- |
 | **zind** | ![AUR version](https://img.shields.io/aur/version/zind) | Dynamic structural API indexer for Zig | ![AUR votes](https://img.shields.io/aur/votes/zind) | [![AUR](https://img.shields.io/badge/AUR-Package-orange)](https://aur.archlinux.org/packages/zind) [![License](https://img.shields.io/aur/license/zind)](./zind/LICENSE) |
 | **circuit-mesh** | ![AUR version](https://img.shields.io/aur/version/circuit-mesh) | Zero-Trust Network Engine with Zig & Netlink | ![AUR votes](https://img.shields.io/aur/votes/circuit-mesh) | [![AUR](https://img.shields.io/badge/AUR-Package-orange)](https://aur.archlinux.org/packages/circuit-mesh) [![License](https://img.shields.io/aur/license/circuit-mesh)](./circuit-mesh/LICENSE) |
+| **dns-stream** | ![AUR version](https://img.shields.io/aur/version/dns-stream) | Unified real-time DNS log stream | ![AUR votes](https://img.shields.io/aur/votes/dns-stream) | [![AUR](https://img.shields.io/badge/AUR-Package-orange)](https://aur.archlinux.org/packages/dns-stream) [![License](https://img.shields.io/aur/license/dns-stream)](./dns-stream/LICENSE) |
 
 ## Maintenance Workflow
 
@@ -32,4 +33,4 @@ The PKGBUILD scripts in this repository are licensed under the [0BSD License](./
 
 The configurations in this repository are licensed under the [MIT License](./LICENSE).
 
-Note that the individual software packages being built remain subject to their own respective upstream licenses (e.g., Zind is MIT, Circuit Mesh is AGPL-3.0).
+Note that the individual software packages being built remain subject to their own respective upstream licenses (e.g., Zind and DNS Stream are MIT, Circuit Mesh is AGPL-3.0).
